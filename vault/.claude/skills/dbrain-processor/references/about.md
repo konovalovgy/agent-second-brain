@@ -1,7 +1,7 @@
-# About [Your Name]
+# About Greg.
 
 ## Who I Am
-[Your Name], [age]. [Your role/title] at [Your Company].
+Greg, 47. IT Service/Securtiy Manager at DIKOM.
 
 ## What I Do
 - [Main business activity]
